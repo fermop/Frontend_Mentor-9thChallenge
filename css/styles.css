@@ -1,0 +1,19 @@
+:root {
+  --blue-primary-700: hsl(229, 23%, 23%);
+  --blue-primary-400: hsl(185, 75%, 39%);
+  --gray-primary-500: hsl(227, 10%, 46%);
+
+  --gray-neutral-300: hsl(0, 0%, 59%);
+
+  --fm-base: 'Kumbh Sans', sans-serif;
+
+  --fw-regular: 400;
+  --fw-bold: 700;
+}
+/* ----- Footer ----- */
+.attribution {
+  font-size: 11px; text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
